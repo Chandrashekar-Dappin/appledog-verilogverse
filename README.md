@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 Mission Statement
+ 🚀 Mission Statement
 
 Welcome to my **Verilogverse**!  
 This repository chronicles my daily adventures into the world of **Verilog and VLSI**, capturing the essence of **learning, challenges, and breakthroughs**.
